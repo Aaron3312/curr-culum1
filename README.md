@@ -4,7 +4,7 @@ Welcome to the repository!
 
 ## PDF File
 
-To view or download the PDF file included in this repository, please click [here](example.pdf).
+To view or download the PDF file included in this repository, please click [here](Curriculum2.2 d(1)).
 
 ## Contributing
 
